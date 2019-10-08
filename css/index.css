@@ -5,8 +5,8 @@ body {
 }
 .container {
   background-color: lightgreen;
-  display: grid;
   min-height: 100vh;
+  display: grid;
 }
 .one { background-color: yellowgreen; }
 .two { background-color: yellow; }
