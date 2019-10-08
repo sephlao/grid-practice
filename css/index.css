@@ -1,0 +1,19 @@
+
+body {
+  font: 1.5em helvetica, arial, sans-serif;
+  margin: 0;
+}
+.container {
+  background-color: lightgreen;
+  display: grid;
+  min-height: 100vh;
+}
+.one { background-color: yellowgreen; }
+.two { background-color: yellow; }
+.three { background-color: gold; }
+.four { background-color: goldenrod; }
+.five { background-color: orange }
+.six { background-color: tomato}
+.seven { background-color: orangered; }
+.eight { background-color: red; }
+.nine { background-color: crimson; }
